@@ -57,27 +57,6 @@ The database supports retail business analysis through questions such as:
 - What is the distribution of warranty repair statuses?
 - Which product categories perform best across different locations?
 
-## Project Structure
-
-```text
-Apple-Retail-Sales-Analysis/
-│
-├── dataset/
-│   ├── sales.csv
-│   ├── stores.csv
-│   ├── category.csv
-│   ├── products.csv
-│   └── warranty.csv
-│
-├── sql/
-│   └── apple_retail_analysis.sql
-│
-├── images/
-│   └── database_erd.png
-│
-└── README.md
-```
-
 ## How to Run
 1. Install PostgreSQL and open pgAdmin or psql.
 2. Create a database for the project.
